@@ -13,7 +13,7 @@ npm install --save-dev jest
 ## Proces
 
 Najprv som vytvorila súbor s názvom : uloha1.test.js.
-Potom som začala pracovať na funkcii. Definícia funkcie:
+Potom som začala pracovať na funkcii(pomocou Regex). Definícia JS funkcie:
 ```bash
 phoneNrsAreEqual(nr1: String, nr2: String): Bool
 ```
