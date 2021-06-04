@@ -1,4 +1,4 @@
-# Zadanie1.Popis:
+# Popis:
 
 Napísanie unit testu pre JavaScriptovú funkciu na porovnávanie dvoch telefónnych čísel. Jedná sa o funkciu, ktorej vstupné parametre sú dva stringy a návratovým typom je true/false. True v prípade, že telefónne čísla sú rovnaké, False, ak nie sú. Do testu je potrebné zahrnúť čo najviac možných prípadov.
 
